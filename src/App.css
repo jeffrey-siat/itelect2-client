@@ -41,3 +41,11 @@
   color: var(--text);
   font-size: 15px;
 }
+
+.status {
+  margin: 16px 0;
+}
+
+.error {
+  color: #ff6b6b;
+}

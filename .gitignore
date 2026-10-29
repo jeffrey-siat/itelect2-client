@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Session 14: your own copy of the settings
+.env
+
+# Session 14: your own copy of the settings
+.env
